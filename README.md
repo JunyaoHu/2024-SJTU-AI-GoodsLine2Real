@@ -6,7 +6,7 @@
 - sd1.5_canny: 预训练的时候使用的从controlnet官方huggingface仓库下载或自动下载
 - final：poolnet的推理模型，请自行在poolnet仓库下载（PoolNet-ResNet50 w/o edge model）
 - 赛题训练的sd生成模型epoch=7-step=3999.zip：百度网盘（提取码：vlhi）
-- 
+
 # 方法说明
 
 **模型训练的方法学**：模型微调+提示词学习+两阶段推理
