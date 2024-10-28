@@ -21,11 +21,11 @@
 
 字符长度
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDZiOGYyYmRhMGM5Y2QxYjAxNmI0NzBhZGQ0YWVmNTZfS0VZbHJxaU5UeU5xRW5yWkxTS3EyRUhNWTFMemQ1bTJfVG9rZW46S3lFNmJIcHF4b2drNFd4dzZLQWNnRUxMbnpnXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/sQ2letLf8W4wkBu.png" alt="image-20241028150725087" style="zoom:50%;" />
 
 单词长度
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=NGExNGZhMzE4YzVmYmE1Njc2NTQ3Yzk0OTcyZGU4ODVfcktHZ0pucGI2RE1EZFFPeEJMakU3Wmd5SE93RDNqOHlfVG9rZW46WDVJVGJJQ2xVb3VoUUZ4MGZRY2M5ZmlQbnZiXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/Hdcjxps369iQroa.png" alt="image-20241028150734488" style="zoom:50%;" />
 
 文本内容分析
 
@@ -45,7 +45,7 @@ decor: 934
 ...
 ```
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDIyYTM4OTJhMTIzN2Y3MjZkMjdkNWQ2NGJkMDgzMTZfYWdJSWYxQ09zaGt5anVWR29pQmdOY1FkejlST0o1bWZfVG9rZW46TWpLYmJ1RDlTb2pvZHd4Nk1IMGNweTdPbmxkXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/ZWe1NAtm7S5BphI.png" alt="image-20241028150752178" style="zoom:50%;" />
 
 对top200，单词出现206词以上的进行分类
 
@@ -77,11 +77,11 @@ decor: 934
 
 **长基本一致**
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=OGQxOTdiNmM1Mzk1OThlZDIyZmFhZGZlOGRkNTE5NjRfbjlJalc5SUpKTGV1YkszYTVaV2FQU3dsUHdQYzE5WEdfVG9rZW46T3RoWGI3REFqbzB5eFB4clZhRGNmWXFTblRlXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/Ymv3qyTe9dQSMZK.png" alt="image-20241028150800238" style="zoom:50%;" />
 
 **长宽比基本一致**
 
-![img](https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=MzhkNzViMTM2YzZmYWNlZjYxM2ZkODRlMTc5OGJlMjRfVThnZHlKU3lpVXM3bmpuRjBiT3VjeVhpT3hWQlZjbnFfVG9rZW46Vno2T2JHeHlqb1RyTW54WmxNRWNSclE2bmFlXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA)
+<img src="https://s2.loli.net/2024/10/28/RkILvPymNFZJt9c.png" alt="image-20241028150810606" style="zoom:50%;" />
 
 ### 颜色
 
@@ -89,13 +89,13 @@ decor: 934
 
 r    0.977288    g    0.976632    b    0.975944
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=NjVlNWY3NjUwYjM5YTBhMmQ0MGY2ZTQ2ZmIzYTM3YTFfYU5XYThScnBXb1lIdkVEdGs2NlloYXJtcWpGR01nSUxfVG9rZW46S2ROZWJZQ0Rob3RWZVF4QWVPNGNRTEFhbjRlXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/FEUK7NCAuOY6iqv.png" alt="image-20241028150903143" style="zoom:50%;" />
 
 **全局平均颜色**，几乎全部偏亮
 
 r    0.737227   g    0.707953    b    0.693699
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=YjczZTE5ZTMyNDQ1NGQ1NDg1OTQ1MjY3NzZjYmVjOGZfQ2dIYWYwdHFpQ0RSS25Yd0JSbFA0UmxRbFVpTkkwNUVfVG9rZW46SnF6YmIxQ3N4bzZWMHV4cjh0amNORTRybkJnXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/oAKDnPiwdMjWst8.png" alt="image-20241028150817426" style="zoom:50%;" />
 
 ## 数据预处理
 
@@ -208,7 +208,7 @@ sh demo.sh
 
 微调+提示词+显著性检测获取生成图像掩码设置为白色背景=0.7628285
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=YzZjNTAwODA2ODQwM2NjZGQ4MGZhMWRjYzg5NTFjNTdfWGc4SDF3RWRjUGNCYVNLRWhJeGdEUDFqVVhxODFNam1fVG9rZW46V29nZGJhY1NpbzJhM3Z4QmwxQ2N5a3Vnbk5iXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/PMeEqYg71OGNC4i.png" alt="image-20241028150931088" style="zoom: 67%;" />
 
 ## 计算平台
 
@@ -222,22 +222,18 @@ sh demo.sh
 
 ### 训练时间
 
-训练iteration约15000次
+训练iteration约15000次,4000次约5.3小时，总计训练时间约15000/4000*5.3=20小时
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=NTQ2NzE1NTE1MmVjODNjOTFlOWZhYmU4MTZjZjZiYzBfZDI2QlpDS2Y2Tk9pWjE2SjFxd3FGMUtXb0YydXYybHpfVG9rZW46SGpSSWJUTlhHb1NNcHR4aEZJeWNjTEpIbkRmXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
-
-4000次约5.3小时，总计训练时间约15000/4000*5.3=20小时
-
-![img](https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDFkZDVmYTg2ODA2MWU0MDgxMTVmNzNkYmI3NzRiZGFfblEzem9zVktQRUVkMDM2RzNIY2k3aG5CNEZ4b1VoWmVfVG9rZW46UklLZmJFT21GbzdUckd4RW1wWmNTUGV5bkxlXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA)
+<img src="https://s2.loli.net/2024/10/28/3vRLQAS7maPVent.png" alt="image-20241028150950779" style="zoom:50%;" />
 
 ### 推理时间
 
 两张卡同时推理9999张图像，controlnet时间约三小时，poolnet时间约一小时
 
-(3+1)*60*60/(9999/2)=2.88s
+(3+1)\*60\*60/(9999/2)=2.88s
 
 符合主办方要求的低于5s时间
 
 ## 部分生成效果展示
 
-<img src="https://yvddwzr9hs.feishu.cn/space/api/box/stream/download/asynccode/?code=YTJlNjc4NTQyNWE5MTlkNmQzZmRmMGRkOWQxZjljZDJfQVE1M1dWY0ZreGxtUE5XdFJlSHcyWW5MV0xrdFdtSXZfVG9rZW46V2hNdWIyZ09HbzE4b3B4TkVzWGN1eHVZbktjXzE3MzAwOTkwMzQ6MTczMDEwMjYzNF9WNA" alt="img" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/10/28/kionwf92ZmMUEFP.png" alt="image-20241028150610769" style="zoom:50%;" />
