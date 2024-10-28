@@ -1,6 +1,12 @@
 # 2024-SJTU-AI-GoodsLine2Real
 图转真挑战：AI绘制实体商品图 第三名(0.7628)思路与开源代码
 
+使用的模型
+- clip: 请从controlnet官方下载或自动下载
+- sd1.5_canny: 预训练的时候使用的从controlnet官方huggingface仓库下载或自动下载
+- final：poolnet的推理模型，请自行在poolnet仓库下载（PoolNet-ResNet50 w/o edge model）
+- 赛题训练的sd生成模型epoch=7-step=3999.zip：百度网盘（提取码：vlhi）
+- 
 # 方法说明
 
 **模型训练的方法学**：模型微调+提示词学习+两阶段推理
