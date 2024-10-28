@@ -1,0 +1,4 @@
+lightning_logs/version_3/checkpoints/epoch=7-step=3999.ckpt
+models/clip/**
+**/*.pyc
+PoolNet/results/run-0/models/final.pth
